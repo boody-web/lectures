@@ -1,0 +1,24 @@
+﻿body {
+    background-color: black;
+    font-family: "young serif", sans-serif;
+    text-align: center;
+    color: white;
+}
+div {
+    margin: 150px 175px 150px 200px;
+    text-align: center;
+    background-color: rgb(13, 13, 13);
+    color: lightgray;
+}
+.p{
+    font-family:"outfit",sans-serif;
+    color:whitesmoke;
+}
+img {
+    width: 300px;
+    height: 275px;
+    object-fit: cover;
+    position: absolute;
+  
+    left: 100px;
+}
